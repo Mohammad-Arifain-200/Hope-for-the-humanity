@@ -1,6 +1,7 @@
 # 🌱 The Hope Project
 
 > **Creating hope, empowering communities, and building brighter futures.**
+>![The Hope Project](./screenshots/home-page.png)
 
 **The Hope Project** is a modern, responsive charity and humanitarian website built to connect people with meaningful causes, volunteer opportunities, community projects, and donation initiatives.
 
