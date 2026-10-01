@@ -19,7 +19,7 @@ export default function Navbar() {
   const active = (href) => href === '/' ? pathname === '/' : pathname.startsWith(href);
 
   return (
-    <header className={`${isHome ? 'absolute' : 'relative bg-forest'} inset-x-0 top-0 z-50 text-white`}>
+ <header className="sticky top-0 z-50 w-full bg-forest text-white">
       <div className="container-site flex h-[78px] items-center justify-between gap-4">
         <div className="hidden items-center gap-3 lg:flex">
           {[Facebook, Instagram, Youtube].map((Icon, i) => (
