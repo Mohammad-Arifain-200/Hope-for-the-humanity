@@ -1,0 +1,22 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/1s4h0pq_pw5z5.js"],""]
+3:I[97367,["/_next/static/chunks/1s4h0pq_pw5z5.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/1s4h0pq_pw5z5.js"],"ViewportBoundary"]
+9:I[97367,["/_next/static/chunks/1s4h0pq_pw5z5.js"],"MetadataBoundary"]
+b:I[39756,["/_next/static/chunks/1s4h0pq_pw5z5.js"],"default"]
+c:I[37457,["/_next/static/chunks/1s4h0pq_pw5z5.js"],"default"]
+:HL["https://images.unsplash.com/photo-1593113598332-cd288d649433?auto=format&fit=crop&w=1200&q=85","image"]
+7:X
+e:X
+e:C
+0:{"buildId":"_YtEWUWhHhGfqKQ7IVVPV","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"children":[["$","section",null,{"className":"relative min-h-[520px] overflow-hidden bg-forest text-white","children":[["$","img",null,{"src":"https://images.unsplash.com/photo-1593113598332-cd288d649433?auto=format&fit=crop&w=1200&q=85","alt":"Nutrition Program Reaches More Children","className":"absolute inset-0 h-full w-full object-cover"}],["$","div",null,{"className":"absolute inset-0 bg-forest/75"}],["$","div",null,{"className":"container-site relative flex min-h-[520px] items-end pb-16 pt-28","children":["$","div",null,{"className":"max-w-3xl","children":[["$","p",null,{"className":"text-xs font-bold uppercase tracking-[.22em] text-gold","children":["Food"," · ","May 15, 2026"]}],["$","h1",null,{"className":"mt-4 text-5xl font-bold leading-tight md:text-6xl","children":"Nutrition Program Reaches More Children"}],["$","p",null,{"className":"mt-4 text-lg text-white/75","children":"Our school meal program has expanded to two additional learning centres."}]]}]}]]}],["$","section",null,{"className":"section-pad","children":["$","div",null,{"className":"container-site max-w-3xl prose-custom","children":[[["$","p","0",{"children":"A good meal can make a major difference to a child’s ability to focus and participate in school."}],["$","p","1",{"children":"The expanded program now supports two additional learning centres with balanced meals prepared locally."}],["$","p","2",{"children":"We are also working with families to share practical nutrition guidance using affordable local foods."}]],["$","blockquote",null,{"children":"Hope grows when people, communities and supporters work together around practical needs."}],["$","p",null,{"children":"Thank you to every volunteer, donor, partner and local leader who makes this work possible."}],["$","$L2",null,{"href":"/blog","className":"btn-dark mt-4","children":"← Back to Blog"}]]}]}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"The Hope Project"}],["$","meta","1",{"name":"description","content":"A modern charity and non-profit website supporting children and communities."}]]}]}]}],null]}],"isPartial":"$@a","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"isPartial":"$@d","staleTime":"$7","varyParams":"$e"},{"rsc":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"isPartial":"$@f","staleTime":"$7","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@10","rootVaryParams":null,"needsRuntimeRequest":"$@11"}
+5:null
+11:true
+7:300
+7:C
+10:0
+a:"$undefined"
+d:"$undefined"
+f:"$undefined"
+6:"$undefined"

@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/donate/layout,_N_T_/donate/page,_N_T_/donate"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/_index",
+    "/donate/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 0,
+    "slots": {
+      "children": {
+        "hints": 64,
+        "slots": {
+          "children": {
+            "hints": 160,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/1b90f15b4f5fb367cc27581feaa2ee494dff49bcd0bc287e6a14dc561739b2cc/$/donate",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/donate/page"
+    },
+    "isFallback": false
+  }
+}

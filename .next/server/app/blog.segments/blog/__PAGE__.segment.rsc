@@ -1,0 +1,23 @@
+1:"$Sreact.fragment"
+2:I[47257,["/_next/static/chunks/1s4h0pq_pw5z5.js"],"ClientPageRoot"]
+3:I[49894,["/_next/static/chunks/1s4h0pq_pw5z5.js","/_next/static/chunks/3d48x4lzcmbpg.js"],"default"]
+6:I[97367,["/_next/static/chunks/1s4h0pq_pw5z5.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+b:I[97367,["/_next/static/chunks/1s4h0pq_pw5z5.js"],"ViewportBoundary"]
+c:I[97367,["/_next/static/chunks/1s4h0pq_pw5z5.js"],"MetadataBoundary"]
+e:I[39756,["/_next/static/chunks/1s4h0pq_pw5z5.js"],"default"]
+f:I[37457,["/_next/static/chunks/1s4h0pq_pw5z5.js"],"default"]
+a:X
+11:X
+11:C
+0:{"buildId":"_YtEWUWhHhGfqKQ7IVVPV","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/_next/static/chunks/3d48x4lzcmbpg.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":"$@9","staleTime":"$a","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$Lb",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"The Hope Project"}],["$","meta","1",{"name":"description","content":"A modern charity and non-profit website supporting children and communities."}]]}]}]}],null]}],"isPartial":"$@d","staleTime":"$a","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$Lf",null,{}]}]]}],"isPartial":"$@10","staleTime":"$a","varyParams":"$11"}],"isUpgradeableISRFallback":false,"a":"$@12","rootVaryParams":null,"needsRuntimeRequest":"$@13"}
+4:{}
+5:"$0:data:0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null
+13:true
+a:300
+a:C
+12:0
+d:"$undefined"
+10:"$undefined"
+9:"$undefined"

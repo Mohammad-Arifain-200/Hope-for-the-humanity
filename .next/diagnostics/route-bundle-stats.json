@@ -1,0 +1,115 @@
+[
+  {
+    "route": "/blog",
+    "firstLoadUncompressedJsBytes": 489690,
+    "firstLoadChunkPaths": [
+      ".next\\static\\chunks\\1s4h0pq_pw5z5.js",
+      ".next\\static\\chunks\\3d48x4lzcmbpg.js",
+      ".next\\static\\chunks\\310vm2bl3xxpt.js",
+      ".next\\static\\chunks\\19mx3mg6lkumu.js",
+      ".next\\static\\chunks\\1rj7ns8rte9vc.js",
+      ".next\\static\\chunks\\2z-e6jheq0ftu.js",
+      ".next\\static\\chunks\\turbopack-1vijxpa2bdysr.js"
+    ]
+  },
+  {
+    "route": "/volunteer",
+    "firstLoadUncompressedJsBytes": 487981,
+    "firstLoadChunkPaths": [
+      ".next\\static\\chunks\\1s4h0pq_pw5z5.js",
+      ".next\\static\\chunks\\0a2bdu3rkf6ss.js",
+      ".next\\static\\chunks\\310vm2bl3xxpt.js",
+      ".next\\static\\chunks\\19mx3mg6lkumu.js",
+      ".next\\static\\chunks\\1rj7ns8rte9vc.js",
+      ".next\\static\\chunks\\2z-e6jheq0ftu.js",
+      ".next\\static\\chunks\\turbopack-1vijxpa2bdysr.js"
+    ]
+  },
+  {
+    "route": "/donate",
+    "firstLoadUncompressedJsBytes": 485551,
+    "firstLoadChunkPaths": [
+      ".next\\static\\chunks\\1s4h0pq_pw5z5.js",
+      ".next\\static\\chunks\\09hxo32qvmhof.js",
+      ".next\\static\\chunks\\310vm2bl3xxpt.js",
+      ".next\\static\\chunks\\19mx3mg6lkumu.js",
+      ".next\\static\\chunks\\1rj7ns8rte9vc.js",
+      ".next\\static\\chunks\\2z-e6jheq0ftu.js",
+      ".next\\static\\chunks\\turbopack-1vijxpa2bdysr.js"
+    ]
+  },
+  {
+    "route": "/contact",
+    "firstLoadUncompressedJsBytes": 484491,
+    "firstLoadChunkPaths": [
+      ".next\\static\\chunks\\1s4h0pq_pw5z5.js",
+      ".next\\static\\chunks\\2go8spgu02wjj.js",
+      ".next\\static\\chunks\\310vm2bl3xxpt.js",
+      ".next\\static\\chunks\\19mx3mg6lkumu.js",
+      ".next\\static\\chunks\\1rj7ns8rte9vc.js",
+      ".next\\static\\chunks\\2z-e6jheq0ftu.js",
+      ".next\\static\\chunks\\turbopack-1vijxpa2bdysr.js"
+    ]
+  },
+  {
+    "route": "/",
+    "firstLoadUncompressedJsBytes": 480560,
+    "firstLoadChunkPaths": [
+      ".next\\static\\chunks\\1s4h0pq_pw5z5.js",
+      ".next\\static\\chunks\\1rgtdkuu3jizw.js",
+      ".next\\static\\chunks\\310vm2bl3xxpt.js",
+      ".next\\static\\chunks\\19mx3mg6lkumu.js",
+      ".next\\static\\chunks\\1rj7ns8rte9vc.js",
+      ".next\\static\\chunks\\2z-e6jheq0ftu.js",
+      ".next\\static\\chunks\\turbopack-1vijxpa2bdysr.js"
+    ]
+  },
+  {
+    "route": "/_not-found",
+    "firstLoadUncompressedJsBytes": 479030,
+    "firstLoadChunkPaths": [
+      ".next\\static\\chunks\\1s4h0pq_pw5z5.js",
+      ".next\\static\\chunks\\310vm2bl3xxpt.js",
+      ".next\\static\\chunks\\19mx3mg6lkumu.js",
+      ".next\\static\\chunks\\1rj7ns8rte9vc.js",
+      ".next\\static\\chunks\\2z-e6jheq0ftu.js",
+      ".next\\static\\chunks\\turbopack-1vijxpa2bdysr.js"
+    ]
+  },
+  {
+    "route": "/about",
+    "firstLoadUncompressedJsBytes": 479030,
+    "firstLoadChunkPaths": [
+      ".next\\static\\chunks\\1s4h0pq_pw5z5.js",
+      ".next\\static\\chunks\\310vm2bl3xxpt.js",
+      ".next\\static\\chunks\\19mx3mg6lkumu.js",
+      ".next\\static\\chunks\\1rj7ns8rte9vc.js",
+      ".next\\static\\chunks\\2z-e6jheq0ftu.js",
+      ".next\\static\\chunks\\turbopack-1vijxpa2bdysr.js"
+    ]
+  },
+  {
+    "route": "/blog/[slug]",
+    "firstLoadUncompressedJsBytes": 479030,
+    "firstLoadChunkPaths": [
+      ".next\\static\\chunks\\1s4h0pq_pw5z5.js",
+      ".next\\static\\chunks\\310vm2bl3xxpt.js",
+      ".next\\static\\chunks\\19mx3mg6lkumu.js",
+      ".next\\static\\chunks\\1rj7ns8rte9vc.js",
+      ".next\\static\\chunks\\2z-e6jheq0ftu.js",
+      ".next\\static\\chunks\\turbopack-1vijxpa2bdysr.js"
+    ]
+  },
+  {
+    "route": "/projects",
+    "firstLoadUncompressedJsBytes": 479030,
+    "firstLoadChunkPaths": [
+      ".next\\static\\chunks\\1s4h0pq_pw5z5.js",
+      ".next\\static\\chunks\\310vm2bl3xxpt.js",
+      ".next\\static\\chunks\\19mx3mg6lkumu.js",
+      ".next\\static\\chunks\\1rj7ns8rte9vc.js",
+      ".next\\static\\chunks\\2z-e6jheq0ftu.js",
+      ".next\\static\\chunks\\turbopack-1vijxpa2bdysr.js"
+    ]
+  }
+]
